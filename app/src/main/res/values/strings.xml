@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Football Match</string>
+    <string name="tab_text_1">Last Match</string>
+    <string name="tab_text_2">Next Match</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="str_date">28/10/2018</string>
+    <string name="score">0</string>
+    <string name="vs">vs</string>
+    <string name="team_name">Team name</string>
+    <string name="team_goals">12 : Abdul \n34 : Rohmad</string>
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="lineups">Line ups</string>
+    <string name="favorites">Favorites</string>
+    <string name="teams">Teams</string>
+    <string name="events">Events</string>
+    <string name="cari">Cari</string>
+    <string name="year">1997</string>
+    <string name="stadium">Stadium</string>
+    <string name="time">00:00</string>
+    <string name="search_hint">Cari</string>
+    <array name="league">
+        <item>English Premier League</item>
+        <item>English League Championship</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+    </array>
+    <string-array name="leagueId">
+        <item>4328</item>
+        <item>4329</item>
+        <item>4331</item>
+        <item>4332</item>
+        <item>4334</item>
+        <item>4335</item>
+    </string-array>
+</resources>
